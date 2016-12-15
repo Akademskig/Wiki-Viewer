@@ -1,0 +1,94 @@
+body {
+  background-color: #151515;
+  font-family: "Playfair";
+  text-align: center;
+  align: center;
+  position: relative;
+}
+
+.head {
+  position: relative;
+  color: white;
+  text-align: center;
+  font-size: 45px;
+  text-shadow: -4px 0 black, 0 3px black, 3px 0 black, 0 -4px black;
+  padding: 30px;
+}
+
+.body2 {
+  align: center;
+  position: relative;
+  background-image: url("http://cdn.mhpbooks.com/uploads/2015/06/books.jpg");
+  padding-top: 50px;
+  padding-bottom: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  border-color: black;
+  border-width: 5px;
+  border-style: solid;
+  opacity;
+  text-align: center;
+}
+
+.body3 {
+  background-color: rgba(32, 32, 32, 0.7);
+  margin-left: 130px;
+  margin-right: 130px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  z-index: -1;
+}
+
+.ranbut {
+  background-color: #3C222F;
+  padding: 10px;
+  float: center;
+  font-size: 25px;
+  color: #9C8892;
+  text-shadow: -1px 0 black, 0 3px black, 1px 0 black, 0 -1px black;
+  border-radius: 15px;
+  border-color: black;
+  margin-bottom: 30px;
+  z-index: 10;
+}
+
+.or {
+  font-size: 25px;
+  color: black;
+  margin-bottom: 20px;
+}
+
+#input {
+  padding: 5px;
+  font-size: 18px;
+  border-color: #343232;
+  border-radius: 10px;
+}
+
+.btn1 {
+  background-color: #3C222F;
+  padding: 10px;
+  float: center;
+  font-size: 20px;
+  color: #9C8892;
+  text-shadow: -1px 0 black, 0 3px black, 1px 0 black, 0 -1px black;
+  border-radius: 15px;
+  border-color: black;
+  margin-left: 30px;
+  z-index: 10;
+}
+
+.article {
+  background-color: rgba(255, 255, 255, 0.9) color: white;
+  margin-top: 50px;
+}
+
+#text {
+  color: black;
+  text-align: left;
+  padding: 10px;
+  font-size: 18px;
+  margin: 5px;
+  background-color: rgba(255, 255, 255, 0.4);
+}
