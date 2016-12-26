@@ -24,7 +24,6 @@ $(document).ready(function(){
         withCredentials: true
       },
       success: function(json) {
-        console.log(json.query.search[0].title);
         $(".article").empty();
 
         for (var i = 0; i < 10; i++) {
